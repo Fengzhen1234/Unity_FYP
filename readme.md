@@ -18,6 +18,9 @@
 
 # SUMO-UNITY
 
+## Overview
+![Generated Map From Sumo File](/GeneratedMap.png)
+
 ## Assets and Dependencies
 
 - [TraCI library](https://github.com/SvenMertin/SUMO3d)
@@ -52,7 +55,6 @@
 4. SUMOClient.cs: Establish communications between SUMO and Unity.<br>Suggested Port: **127.0.0.1:4001** <br><br>
 
 5. Input and Car Controller: Find scripts attached to the vehicle prefabs. 
-
 
 
 <br>
