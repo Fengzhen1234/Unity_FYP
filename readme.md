@@ -9,9 +9,7 @@
     - [How To Make A Racing Video Game Tutorial](https://youtube.com/playlist?list=PLhWBaV_gmpGXxscZr8PIcreyYkw8VlnKn)
 
 - SUMO UNITY Realtime
-    - Generate Simulation Scene solely
-
-- Unity TCP Sumo
+    - Generate Simulation Scene
     - Sumo Client and other vehicle updation script included
 
 <br>
@@ -63,4 +61,4 @@
 1. Refine camera script, automate the process of object attaching
 2. Fix bugs in SUMOClient.cs, SUMO shuts when TraCI command is passed on to SUMO
 3. Refine vehicle script, vehicle motion and rear view mirror<br>
-**Note**: you may find the example code in the practice project
+**Note**: you may find this example code in the practice project
